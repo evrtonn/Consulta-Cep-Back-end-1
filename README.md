@@ -8,7 +8,7 @@ Projeto simples que consulta a API ViaCEP através de um backend Spring Boot e e
 
 ```powershell
 cd c:\Users\Everton\Desktop\Cursos\Curso Nortetech\Backend\consulta-cep
-.\mvnw spring-boot:run
+.\ ConsultaCepApplicationConsultaCepApplication.java RUN JAVA
 ```
 
 A API ficará disponível em `http://localhost:8080/api/cep/{cep}`.
