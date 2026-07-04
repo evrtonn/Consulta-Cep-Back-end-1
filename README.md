@@ -26,8 +26,8 @@ Aplicação **FullStack** que consulta endereços brasileiros via API ViaCEP. De
 
 ### Backend
 
-```bash
-cd "c:\Users\Everton\Desktop\Cursos\Curso Nortetech\Backend\consulta-cep"
+```powershell
+cd c:\Users\Everton\Desktop\Cursos\Curso Nortetech\Backend\consulta-cep
 .\mvnw spring-boot:run
 ```
 
